@@ -8,7 +8,7 @@ WHEN the user inputs an expense or deposit
 THEN they will receive a notification that they have added an expense or deposit
 WHEN the user reestablishes an internet connection
 THEN the deposits or expenses added while they were offline are added to their transaction history and their totals are updated
-   ![Mockup](public\Screenshot (64).png)
+   ![README](public\tracker.png)
    ## Table of Content
   1. [Installation](#installation)
   2. [Usage](#usage)
